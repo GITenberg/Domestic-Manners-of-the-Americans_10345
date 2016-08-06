@@ -1,0 +1,39 @@
+_repo: Domestic-Manners-of-the-Americans_10345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Frances Milton
+    aliases:
+    - Trollope, Fanny
+    - Milton, Frances
+    - Trollope, Mrs.
+    birthdate: 1780
+    deathdate: 1863
+    gutenberg_agent_id: '3479'
+    url: http://www.gutenberg.org/2009/agents/3479
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Trollope
+description: Domestic Manners of the Americans is an 1832 travel book by Frances Trollope
+  which follows her travels through America and her residence in Cincinnati, at the
+  time still a frontier town. The book created a sensation on both sides of the Atlantic,
+  as Trollope had a caustic view of the Americans and found America strongly lacking
+  in manners and learning. She was appalled by America's egalitarian middle-class
+  and by the influence of evangelicalism that was emerging during the Second Great
+  Awakening. She was also disgusted by slavery, of which she saw relatively little
+  as she stayed in the South o.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- !lcc 'E151'
+- !lcsh 'United States -- Social conditions -- To 1865'
+- !lcsh 'Trollope, Frances Milton, 1780-1863 -- Travel -- United States'
+- GITenberg
+title: Domestic Manners of the Americans
+url: http://www.gutenberg.org/ebooks/10345
