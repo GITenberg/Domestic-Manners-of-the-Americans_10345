@@ -1,5 +1,8 @@
 _repo: Domestic-Manners-of-the-Americans_10345
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Frances Milton
@@ -20,6 +23,8 @@ description: Domestic Manners of the Americans is an 1832 travel book by Frances
   and by the influence of evangelicalism that was emerging during the Second Great
   Awakening. She was also disgusted by slavery, of which she saw relatively little
   as she stayed in the South o.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10345#Domestic-Manners-of-the-Americans
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
